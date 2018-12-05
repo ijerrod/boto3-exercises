@@ -1,2 +1,5 @@
 # boto3-exercises
-Performing functions on AWS with Boto3
+Using python to manage resources on AWS with Boto3
+
+### SQS
+How to connect and use SQS
